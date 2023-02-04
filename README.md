@@ -1,4 +1,4 @@
 # rustonacci
 A simple fibonacci number generator to learn rust. 
 
-You shluld be able to clone this repository and then use 'cargo run' to build and test the application. 
+You should be able to clone this repository and then use 'cargo run' to build and test the application. 
